@@ -4,10 +4,10 @@
 
 ### The Wall
 
-*Та самая Стена*
+> Та самая Стена
 
-It was like something out of a storybook—impossible, unreal.  
-*Она была как из сказки - невозможная, невероятная.*
+It was like something out of a storybook—impossible, unreal.
+> Она была как из сказки - невозможная, невероятная.
 
 The Great Northern Wall rose up out of the pock-marked ground, nearly blotting out the sun.  
 *Великая Северная Стена вырастала из рябого грунта, почти закрывая собой солнце.*
