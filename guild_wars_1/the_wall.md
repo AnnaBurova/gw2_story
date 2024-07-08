@@ -6,20 +6,21 @@
 
 > Та самая Стена
 
+<https://wiki.guildwars.com/wiki/The_Wall>
+
 It was like something out of a storybook—impossible, unreal.
 > Она была как из сказки - невозможная, невероятная.
 
-The Great Northern Wall rose up out of the pock-marked ground, nearly blotting out the sun.  
-*Великая Северная Стена вырастала из рябого грунта, почти закрывая собой солнце.*
+The Great Northern Wall rose up out of the pock-marked ground, nearly blotting out the sun.
+> Великая Северная Стена вырастала из рябого грунта, почти закрывая собой солнце.
 
-**Devona** placed her palm on the withered stone.  
-**Девона** прикоснулась ладонью к иссохшему камню Стены.
+**Devona** placed her palm on the withered stone.
+> **Девона** прикоснулась ладонью к иссохшему камню Стены.
 
-It felt solid, unmovable, reassuring.  
-*Он ощущался надёжным, непоколебимым, убирал страхи и сомнения.*
+It felt solid, unmovable, reassuring.
+> Он ощущался надёжным, непоколебимым, убирал страхи и сомнения.
 
-"Great Wall" concept art 2.jpg
-![image alt text](files://C:/Users/jzhang/Desktop/Isolated.png)
+!["Great Wall" concept art 2](https://wiki.guildwars.com/images/8/8e/%22Great_Wall%22_concept_art_2.jpg)
 
 Lifting her hammer onto her shoulder, the warrior climbed the stairs leading to the crenelated defenses of the Wall.  
 *Водрузив свой молот на плечо, воительница направилась к лестнице, ведущей к зубчатым венцам Стены.*
