@@ -21,33 +21,32 @@ It felt solid, unmovable, reassuring.
 > Он ощущался надёжным, непоколебимым, убирал страхи и сомнения.
 
 !["Great Wall" concept art 2](/guild_wars_1/images/Great_Wall__concept_art_2.jpg)
-!["Great Wall" concept art 2](https://wiki.guildwars.com/images/8/8e/%22Great_Wall%22_concept_art_2.jpg)
 
-Lifting her hammer onto her shoulder, the warrior climbed the stairs leading to the crenelated defenses of the Wall.  
-*Водрузив свой молот на плечо, воительница направилась к лестнице, ведущей к зубчатым венцам Стены.*
+Lifting her hammer onto her shoulder, the warrior climbed the stairs leading to the crenelated defenses of the Wall.
+> Водрузив свой молот на плечо, воительница направилась к лестнице, ведущей к зубчатым венцам Стены.
 
-Until this morning, the massive structure that separated the remnants of **Ascalon** from the **Charr** infested territory to the north had been something she had only seen from a distance.  
-*До сегодняшнего утра она наблюдала это массивное сооружение, отделявшее населенную **Чаррами** северную часть **Аскалона**, только издалека.*
+Until this morning, the massive structure that separated the remnants of `Ascalon` from the `Charr` infested territory to the north had been something she had only seen from a distance.
+> До сегодняшнего утра она наблюдала это массивное сооружение, отделявшее населенную `Чаррами` северную часть `Аскалона`, только издалека.
 
-Now she would get her first look at the devastation on the other side, the ruins and the tectonic shifting caused during **The Searing**.  
-*А теперь ей впервые предстоит увидеть разрушения, руины и разломы по ту сторону Стены, вызванные **The Searing (Испепелением)**.*
+Now she would get her first look at the devastation on the other side, the ruins and the tectonic shifting caused during `The Searing`.
+> А теперь ей впервые предстоит увидеть разрушения, руины и разломы по ту сторону Стены, вызванные `The Searing (Ссожением)`.
 
-Reaching the top, the warrior walked to the edge and peered over.  
-*Поднявшись наверх, **Девона** подошла к внешнему краю Стены и начала рассматривать окрестности.*
+Reaching the top, the warrior walked to the edge and peered over.
+> Поднявшись наверх, Девона подошла к внешнему краю Стены и начала рассматривать окрестности.
 
-Huge rock slabs littered the ground, looking like giant bits of shattered crockery, lying broken and discarded across the jagged landscape.  
-*Огромные каменные плиты, будто осколки гигантской разбитой посуды, валялись по всему неровному ландшафту.*
+Huge rock slabs littered the ground, looking like giant bits of shattered crockery, lying broken and discarded across the jagged landscape.
+> Огромные каменные плиты, будто осколки гигантской разбитой посуды, валялись по всему неровному ландшафту.
 
-The trees and grasses were black—burnt and dead.  
-*Деревья и трава почернели - они были сожжены дотла и безжизненны.*
+The trees and grasses were black—burnt and dead.
+> Деревья и трава почернели - они были сожжены дотла и безжизненны.
 
-The ground rose from the base of the Wall, becoming a small hill as it got further into enemy territory, blocking a longer view.  
-*Уровень земли медленно поднимался, начиная от основания Стены, превращаясь вдали в небольшой холм, закрывающий дальнеший обзор чужой территории.*
+The ground rose from the base of the Wall, becoming a small hill as it got further into enemy territory, blocking a longer view.
+> Уровень земли медленно поднимался, начиная от основания Стены, превращаясь вдали в небольшой холм, закрывающий дальнеший обзор чужой территории.
 
-At the top of the hill, backlit by the orange, scorched sky, **Devona** could just make out the outline of the **Ruins of Surmia**, one of the first cities to fall during the Invasion.  
-*На вершине холма, освещенного оранжевым выжженным небом, **Девона** смогла разглядеть очертания **Руин Сурмии**, одного из первых городов, павших во время Вторжения.*
+At the top of the hill, backlit by the orange, scorched sky, Devona could just make out the outline of the `Ruins of Surmia`, one of the first cities to fall during the Invasion.
+> На вершине холма, освещенного оранжевым выжженным небом, Девона смогла разглядеть очертания `Руин Сурмии`, одного из первых городов, павших во время Вторжения.
 
-**Devona** looked out at a world of upheaval, the ruins of a fallen kingdom, now desperately holding onto its last, best hope for survival.  
+Devona looked out at a world of upheaval, the ruins of a fallen kingdom, now desperately holding onto its last, best hope for survival.
 
 *Она смотрела на мир, переживший катастрофу, на развалины павшего королевства, которое теперь отчаянно цеплялось за свою последнюю, лучшую надежду на выживание.*
 
