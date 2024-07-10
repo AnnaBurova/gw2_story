@@ -1,6 +1,6 @@
 # История Guild Wars 1
 
-## GW1 Pre-Storys
+## Предистории Guild Wars 1
 
 ### The Wall
 
@@ -11,15 +11,16 @@
 It was like something out of a storybook—impossible, unreal.
 > Она была как из сказки - невозможная, невероятная.
 
-The Great Northern Wall rose up out of the pock-marked ground, nearly blotting out the sun.
-> Великая Северная Стена вырастала из рябого грунта, почти закрывая собой солнце.
+`The Great Northern Wall` rose up out of the pock-marked ground, nearly blotting out the sun.
+> `Великая Северная Стена` вырастала из рябого грунта, почти закрывая собой солнце.
 
-**Devona** placed her palm on the withered stone.
-> **Девона** прикоснулась ладонью к иссохшему камню Стены.
+`Devona` placed her palm on the withered stone.
+> `Девона` прикоснулась ладонью к иссохшему камню Стены.
 
 It felt solid, unmovable, reassuring.
 > Он ощущался надёжным, непоколебимым, убирал страхи и сомнения.
 
+!["Great Wall" concept art 2](/gw2_story/guild_wars_1/images/Great_Wall__concept_art_2.jpg)
 !["Great Wall" concept art 2](https://wiki.guildwars.com/images/8/8e/%22Great_Wall%22_concept_art_2.jpg)
 
 Lifting her hammer onto her shoulder, the warrior climbed the stairs leading to the crenelated defenses of the Wall.  
@@ -57,6 +58,9 @@ The sound of a man clearing his throat brought her attention back to the Wall.
 “Капитан Калхаан” Девона выпрямилась и повернулась к подошедшему офицеру.
 
 "Scorched" concept art 1.jpg
+"Scorched" concept art 1
+
+https://wiki.guildwars.com/images/f/f7/%22Scorched%22_concept_art_1.jpg
 
 Calhaan nodded "First time on the Wall?"
 Калхаан приветственно кивнул. “Первый раз на Стене?”
