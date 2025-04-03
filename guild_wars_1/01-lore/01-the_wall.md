@@ -29,7 +29,7 @@ Until this morning, the massive structure that separated the remnants of `Ascalo
 > Это массивное сооружение отделяло оставшуюся часть `Аскалона` от территории, которую заполонили вторгшиеся `Чарры`. До сегодняшнего утра девушка видела Стену только издалека.
 
 Now she would get her first look at the devastation on the other side, the ruins and the tectonic shifting caused during `The Searing`.
-> А теперь ей впервые предстоит увидеть разрушения, руины и разломы по ту сторону Стены, вызванные `The Searing (Ссожением)`.
+> А теперь ей впервые предстоит увидеть разрушения, руины и разломы по ту сторону Стены, вызванные `The Searing (Пламенем разрушения)`.
 
 Reaching the top, the warrior walked to the edge and peered over.
 > Поднявшись наверх, Девона подошла к внешнему краю Стены и начала рассматривать окрестности.
@@ -38,13 +38,13 @@ Huge rock slabs littered the ground, looking like giant bits of shattered crocke
 > Огромные каменные плиты, будто осколки гигантской разбитой посуды, валялись по всему неровному ландшафту.
 
 The trees and grasses were black—burnt and dead.
-> Деревья и трава почернели - они были сожжены дотла и безжизненны.
+> Деревья и травы были черны — они были сожжены дотла и безжизненны.
 
 The ground rose from the base of the Wall, becoming a small hill as it got further into enemy territory, blocking a longer view.
 > Уровень земли медленно поднимался, начиная от основания Стены, превращаясь вдали в небольшой холм, закрывающий дальнеший обзор чужой территории.
 
-At the top of the hill, backlit by the orange, scorched sky, Devona could just make out the outline of the `Ruins of Surmia`, one of the first cities to fall during the Invasion.
-> На вершине холма, освещенного оранжевым выжженным небом, Девона смогла разглядеть очертания `Руин Сурмии`, одного из первых городов, павших во время Вторжения.
+At the top of the hill, backlit by the orange, scorched sky, Devona could just make out the outline of the `ruins of Surmia`, one of the first cities to fall during the Invasion.
+> На вершине холма, освещенного оранжевым выжженным небом, Девона смогла разглядеть очертания `руин Сурмии`, одного из первых городов, павших во время Вторжения.
 
 Devona looked out at a world of upheaval, the ruins of a fallen kingdom, now desperately holding onto its last, best hope for survival.
 
