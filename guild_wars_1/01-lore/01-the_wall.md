@@ -44,11 +44,10 @@ The ground rose from the base of the Wall, becoming a small hill as it got furth
 > Уровень земли медленно поднимался, начиная от основания Стены, превращаясь вдали в небольшой холм, закрывающий дальнеший обзор чужой территории.
 
 At the top of the hill, backlit by the orange, scorched sky, Devona could just make out the outline of the `ruins of Surmia`, one of the first cities to fall during the Invasion.
-> На вершине холма, освещенного оранжевым выжженным небом, Девона смогла разглядеть очертания `руин Сурмии`, одного из первых городов, павших во время Вторжения.
+> На вершине холма, освещенного багряным небом, Девона смогла разглядеть очертания `руин Сурмии`, одного из первых городов, павших во время Вторжения.
 
 Devona looked out at a world of upheaval, the ruins of a fallen kingdom, now desperately holding onto its last, best hope for survival.
-
-*Она смотрела на мир, переживший катастрофу, на развалины павшего королевства, которое теперь отчаянно цеплялось за свою последнюю, лучшую надежду на выживание.*
+> Девона смотрела на охваченный смятением мир, на развалины павшего королевства, которое теперь отчаянно цеплялось за свою последнюю, но возможно лучшую надежду на выживание.
 
 The sound of a man clearing his throat brought her attention back to the Wall.
 Покашливание за спиной, вернуло её из мыслей обратно на Стену.
