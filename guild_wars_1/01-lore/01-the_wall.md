@@ -9,10 +9,10 @@
 <https://wiki.guildwars.com/wiki/The_Wall>
 
 It was like something out of a storybook—impossible, unreal.
-> Она была как из сказки - невозможная, невероятная.
+> Она была как из сказки - невозможная, нереальная.
 
 `The Great Northern Wall` rose up out of the pock-marked ground, nearly blotting out the sun.
-> `Великая Северная Стена` вырастала из рябого грунта, почти закрывая собой солнце.
+> `Великая Северная Стена` вырастала из рябой будто язвами покрытой земли, почти заслоняя собой солнце.
 
 `Devona` placed her palm on the withered stone.
 > `Девона` прикоснулась ладонью к иссохшему камню Стены.
@@ -26,7 +26,7 @@ Lifting her hammer onto her shoulder, the warrior climbed the stairs leading to 
 > Водрузив свой молот на плечо, воительница направилась к лестнице, ведущей к зубчатым венцам Стены.
 
 Until this morning, the massive structure that separated the remnants of `Ascalon` from the `Charr` infested territory to the north had been something she had only seen from a distance.
-> До сегодняшнего утра она наблюдала это массивное сооружение, отделявшее населенную `Чаррами` северную часть `Аскалона`, только издалека.
+> Это массивное сооружение отделяло оставшуюся часть `Аскалона` от территории, которую заполонили вторгшиеся `Чарры`. До сегодняшнего утра девушка видела Стену только издалека.
 
 Now she would get her first look at the devastation on the other side, the ruins and the tectonic shifting caused during `The Searing`.
 > А теперь ей впервые предстоит увидеть разрушения, руины и разломы по ту сторону Стены, вызванные `The Searing (Ссожением)`.
