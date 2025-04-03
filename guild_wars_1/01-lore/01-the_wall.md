@@ -20,7 +20,7 @@ It was like something out of a storybook—impossible, unreal.
 It felt solid, unmovable, reassuring.
 > Он ощущался надёжным, непоколебимым, убирал страхи и сомнения.
 
-!["Great Wall" concept art 2](/guild_wars_1/images/Great_Wall__concept_art_2.jpg)
+!["Great Wall" concept art 2](/guild_wars_1/images/Ascalon-Great_Wall-Concept_Art.jpg)
 
 Lifting her hammer onto her shoulder, the warrior climbed the stairs leading to the crenelated defenses of the Wall.
 > Водрузив свой молот на плечо, воительница направилась к лестнице, ведущей к зубчатым венцам Стены.
