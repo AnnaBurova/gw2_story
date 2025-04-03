@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamic Translation View</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; }
+        .container { display: flex; flex-direction: column; gap: 10px; }
+        .row, .column { display: flex; }
+        .row div, .column div { padding: 5px; border: 1px solid #ccc; }
+        .row div { flex: 1; }
+        .column { flex-direction: column; }
+    </style>
+</head>
+<body>
+    <button onclick="toggleView()">Toggle View</button>
+    <div id="content" class="container"></div>
+
+    <script>
+        let isColumnView = false;
+        const data = `Hello, how are you? | Привет, как дела?
+I'm fine, thanks! | У меня всё хорошо, спасибо!
+What about you? | А ты как?`;
+
+        function render() {
+            const lines = data.split('\n');
+            const container = document.getElementById('content');
+            container.innerHTML = '';
+            
+            lines.forEach(line => {
+                const [en, ru] = line.split('|').map(s => s.trim());
+                const div = document.createElement('div');
+                div.className = isColumnView ? 'column' : 'row';
+                
+                const enDiv = document.createElement('div');
+                enDiv.textContent = en;
+                const ruDiv = document.createElement('div');
+                ruDiv.textContent = ru;
+                
+                div.appendChild(enDiv);
+                div.appendChild(ruDiv);
+                container.appendChild(div);
+            });
+        }
+
+        function toggleView() {
+            isColumnView = !isColumnView;
+            render();
+        }
+
+        render();
+    </script>
+</body>
+</html>
