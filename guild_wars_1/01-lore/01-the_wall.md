@@ -20,13 +20,13 @@ It was like something out of a storybook—impossible, unreal.
 It felt solid, unmovable, reassuring.
 > Он ощущался надёжным, непоколебимым, убирал страхи и сомнения.
 
-!["Great Wall" concept art 2](/guild_wars_1/images/Ascalon-Great_Wall-Concept_Art.jpg)
+!["Ascalon Great Wall" Concept Art](/gw2_story/guild_wars_1/01-lore/images/Ascalon-Great_Wall-Concept_Art.jpg)
 
 Lifting her hammer onto her shoulder, the warrior climbed the stairs leading to the crenelated defenses of the Wall.
 > Водрузив свой молот на плечо, воительница направилась к лестнице, ведущей к зубчатым венцам Стены.
 
 Until this morning, the massive structure that separated the remnants of `Ascalon` from the `Charr` infested territory to the north had been something she had only seen from a distance.
-> Это массивное сооружение отделяло оставшуюся часть `Аскалона` от территории, которую заполонили вторгшиеся `Чарры`. До сегодняшнего утра девушка видела Стену только издалека.
+> Это массивное сооружение отделяло оставшуюся часть `Аскалона` от территории, которую заполонили вторгшиеся `Чарры`. До сегодняшнего утра девушка видела Великую Стену только издалека.
 
 Now she would get her first look at the devastation on the other side, the ruins and the tectonic shifting caused during `The Searing`.
 > А теперь ей впервые предстоит увидеть разрушения, руины и разломы по ту сторону Стены, вызванные `The Searing (Пламенем разрушения)`.
