@@ -32,7 +32,7 @@ Now she would get her first look at the devastation on the other side, the ruins
 > А теперь ей впервые предстоит увидеть разрушения, руины и разломы по ту сторону Стены, вызванные `The Searing (Пламенем разрушения)`.
 
 Reaching the top, the warrior walked to the edge and peered over.
-> Поднявшись наверх, Девона подошла к внешнему краю Стены и начала рассматривать окрестности.
+> Поднявшись наверх, Девона подошла к внешнему краю Стены и начала рассматривать открывшийся вид.
 
 Huge rock slabs littered the ground, looking like giant bits of shattered crockery, lying broken and discarded across the jagged landscape.
 > Огромные каменные плиты, будто осколки гигантской разбитой посуды, валялись по всему неровному ландшафту.
