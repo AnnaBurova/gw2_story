@@ -60,34 +60,33 @@ Devona looked out at a world of upheaval, the ruins of a fallen kingdom, now des
 The sound of a man clearing his throat brought her attention back to the Wall.
 > Сдержанное покашливание где-то рядом вывело её из задумчивости обратно к суровой реальности Великой Стены.
 
-"Captain Calhaan." Devona straightened up and turned to face the officer.
-“Капитан Калхаан” Девона выпрямилась и повернулась к подошедшему офицеру.
+«Captain Calhaan!» — Devona straightened up and turned to face the officer.
+> «Капитан Калхаан!» — Девона мгновенно выпрямилась и повернулась к подошедшему офицеру.
 
-"Scorched" concept art 1.jpg
-"Scorched" concept art 1
+Calhaan nodded. «First time on the Wall?»
+> Калхаан приветственно кивнул.
+> «Первый раз на Стене?»
 
-https://wiki.guildwars.com/images/f/f7/%22Scorched%22_concept_art_1.jpg
+«Yes, sir!»
+> «Да, сэр!»
 
-Calhaan nodded "First time on the Wall?"
-Калхаан приветственно кивнул. “Первый раз на Стене?”
+«What do you think?» He gestured out toward Charr territory.
+> «Каково твоё мнение?»
+> Он жестом показал в сторону территорий Чарр.
 
-"Yes, sir."
-“Да, сэр”
+Devona shook her head. — «I'm in awe, sir.»
+> Девона покачала головой, словно не в силах поверить своим глазам.
+> «Это внушает трепет, сэр.»
 
-"What do you think?" He gestured out toward Charr territory.
-“И что ты думаешь?” Он жестом показал в сторону земель Чарр.
-
-Devona shook her head. "I'm in awe, sir."
-Девона вжала голову в плечи. «Это внушает трепет, сэр».
-
 The captain nodded.
-Калхаан опять кивнул.
+> Капитан понимающе кивнул.
 
-"But I guess I expected—" Devona thought for a moment— "worse," she said finally.
-“Но я думаю я ожидала…” Девона на мгновение задумалась “...худшего” закончила она.
+«But I guess I expected…» — Devona thought for a moment — «…worse.» — she said finally.
+> «Но, наверное, я всё же ожидала…» — Девона на мгновение замялась — «…худшего.» — сказала она наконец.
 
-She glanced out at the ruined ground. "I just wish I could see more."
-И снова устремила взгляд на разрушенные земли. “Я просто надеюсь что увижу больше.”
+She glanced out at the ruined ground. — «I just wish I could see more…»
+> Она снова устремила взгляд на опустошённые земли.
+> «Если бы я могла увидеть больше…»
 
 Captain Calhaan rocked back and forth on his heels.
 Капитан Калхаан качнулся взад и вперед на пятках.
