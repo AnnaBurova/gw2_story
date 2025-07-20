@@ -10,7 +10,7 @@
 
 ***
 
-<img src="/guild_wars_1/01-lore/images/Concept_Art-Ascalon-Great_Wall.jpg" width="700" alt="Concept Art: Ascalon Great Wall" />
+<img src="/guild_wars_1/01-lore/images/Concept_Art-Ascalon-Great_Wall-small.jpg" height="700" alt="Concept Art: Ascalon Great Wall" />
 
 It was like something out of a storybook—impossible, unreal.
 > Она была как из сказки - невозможная, нереальная.
