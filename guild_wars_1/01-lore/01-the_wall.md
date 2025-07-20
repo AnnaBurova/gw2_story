@@ -55,6 +55,8 @@ At the top of the hill, backlit by the orange, scorched sky, Devona could just m
 Devona looked out at a world of upheaval, the ruins of a fallen kingdom, now desperately holding onto its last, best hope for survival.
 > Девона смотрела на потрясённый до основания мир, на развалины павшего королевства, которое теперь отчаянно цеплялось за свою последнюю и, быть может, лучшую надежду на спасение.
 
+<img src="/guild_wars_1/01-lore/images/NPC-Captain_Calhaan-small.png" width="250" align="right" alt="NPC: Captain Calhaan" />
+
 The sound of a man clearing his throat brought her attention back to the Wall.
 Покашливание за спиной, вернуло её из мыслей обратно на Стену.
 
