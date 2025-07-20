@@ -49,8 +49,8 @@ The trees and grasses were black—burnt and dead.
 The ground rose from the base of the Wall, becoming a small hill as it got further into enemy territory, blocking a longer view.
 > От подножия Стены земля неторопливо вздымалась, превращаясь вдали в небольшой холм, отсекающий взор от дальнешего обзора вражеской территории.
 
-At the top of the hill, backlit by the <font color="#c86733">orange, scorched</font> sky, Devona could just make out the outline of the ruins of `Surmia`, one of the first cities to fall during the Invasion.
-> На вершине холма, в обрамлении <font color="#c86733">обожжённого оранжевого</font> неба, Девона различила силуэт руин `Сурмии` — одного из первых городов, павших во время Вторжения.
+At the top of the hill, backlit by the <span style="#c86733">orange, scorched</span> sky, Devona could just make out the outline of the ruins of `Surmia`, one of the first cities to fall during the Invasion.
+> На вершине холма, в обрамлении <span style="#c86733">обожжённого оранжевого</span> неба, Девона различила силуэт руин `Сурмии` — одного из первых городов, павших во время Вторжения.
 
 Devona looked out at a world of upheaval, the ruins of a fallen kingdom, now desperately holding onto its last, best hope for survival.
 > Девона смотрела на охваченный смятением мир, на развалины павшего королевства, которое теперь отчаянно цеплялось за свою последнюю, но возможно лучшую надежду на выживание.
