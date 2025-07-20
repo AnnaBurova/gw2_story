@@ -22,24 +22,24 @@ It was like something out of a storybook—impossible, unreal.
 > `Девона` прикоснулась ладонью к иссохшему камню Стены.
 
 It felt solid, unmovable, reassuring.
-> Он ощущался надёжным, непоколебимым, убирал страхи и сомнения.
+> Он ощущался надёжным, непоколебимым, вселяющим уверенность.
 
 <img src="/guild_wars_1/01-lore/images/Concept_Art-Ascalon-Great_Wall.jpg" width="700" alt="Concept Art: Ascalon Great Wall" />
 
 Lifting her hammer onto her shoulder, the warrior climbed the stairs leading to the crenelated defenses of the Wall.
-> Водрузив свой молот на плечо, воительница направилась к лестнице, ведущей к зубчатым венцам Стены.
+> Водрузив свой молот на плечо, воительница поднялась по ступеням, ведущим к зубчатым укреплениям Стены.
 
 Until this morning, the massive structure that separated the remnants of `Ascalon` from the `Charr` infested territory to the north had been something she had only seen from a distance.
-> Это массивное сооружение отделяло оставшуюся часть `Аскалона` от территории, которую заполонили вторгшиеся `Чарры`. До сегодняшнего утра девушка видела Великую Стену только издалека.
+> До сегодняшнего утра Великая Стена была для неё лишь далёким силуэтом на горизонте, массивное сооружение, что отделяло уцелевший `Аскалон` от северных земель, кишащих `Чаррами`.
 
 Now she would get her first look at the devastation on the other side, the ruins and the tectonic shifting caused during `The Searing`.
-> А теперь ей впервые предстоит увидеть разрушения, руины и разломы по ту сторону Стены, вызванные `The Searing (Пламенем разрушения)`.
+> А теперь ей впервые предстоит увидеть то, что скрывалось по ту сторону Стены — обугленные руины, зияющие расколы земли и следы бедствия, что оставило после себя `The Searing (Пламя Разрушения)`.
 
 Reaching the top, the warrior walked to the edge and peered over.
-> Поднявшись наверх, Девона подошла к внешнему краю Стены и начала рассматривать открывшийся вид.
+> Поднявшись на самый верх, Девона подошла к дальнему краю Стены — туда, где начиналось неизвестное — и застыла, вглядываясь в открывшийся перед ней мир.
 
 Huge rock slabs littered the ground, looking like giant bits of shattered crockery, lying broken and discarded across the jagged landscape.
-> Огромные каменные плиты, будто осколки гигантской разбитой посуды, валялись по всему неровному ландшафту.
+> Огромные каменные плиты, словно осколки гигантской разбитой посуды, были рассыпанны по израненной, рваной земле.
 
 The trees and grasses were black—burnt and dead.
 > Деревья и травы были черны — они были сожжены дотла и безжизненны.
