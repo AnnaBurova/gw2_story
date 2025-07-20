@@ -63,20 +63,17 @@ The sound of a man clearing his throat brought her attention back to the Wall.
 «Captain Calhaan!» — Devona straightened up and turned to face the officer.
 > «Капитан Калхаан!» — Девона мгновенно выпрямилась и повернулась к подошедшему офицеру.
 
-Calhaan nodded. «First time on the Wall?»
-> Калхаан приветственно кивнул.
-> «Первый раз на Стене?»
+Calhaan nodded. — «First time on the Wall?»
+> Калхаан приветственно кивнул. — «Первый раз на Стене?»
 
 «Yes, sir!»
 > «Да, сэр!»
 
-«What do you think?» He gestured out toward Charr territory.
-> «Каково твоё мнение?»
-> Он жестом показал в сторону территорий Чарр.
+«What do you think?» — He gestured out toward Charr territory.
+> «Каково твоё мнение?» — Он жестом показал в сторону территорий Чарр.
 
 Devona shook her head. — «I'm in awe, sir.»
-> Девона покачала головой, словно не в силах поверить своим глазам.
-> «Это внушает трепет, сэр.»
+> Девона покачала головой, словно не в силах поверить своим глазам. — «Это внушает трепет, сэр.»
 
 The captain nodded.
 > Капитан понимающе кивнул.
@@ -85,8 +82,7 @@ The captain nodded.
 > «Но, наверное, я всё же ожидала…» — Девона на мгновение замялась — «…худшего.» — сказала она наконец.
 
 She glanced out at the ruined ground. — «I just wish I could see more…»
-> Она снова устремила взгляд на опустошённые земли.
-> «Если бы я могла увидеть больше…»
+> Она снова устремила взгляд на опустошённые земли. — «Если бы я только могла увидеть больше…»
 
 Captain Calhaan rocked back and forth on his heels.
 Капитан Калхаан качнулся взад и вперед на пятках.
