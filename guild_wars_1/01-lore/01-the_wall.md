@@ -10,6 +10,8 @@
 
 ***
 
+<img src="/guild_wars_1/01-lore/images/Concept_Art-Ascalon-Great_Wall.jpg" width="700" alt="Concept Art: Ascalon Great Wall" />
+
 It was like something out of a storybook—impossible, unreal.
 > Она была как из сказки - невозможная, нереальная.
 
@@ -24,8 +26,6 @@ It was like something out of a storybook—impossible, unreal.
 It felt solid, unmovable, reassuring.
 > Он ощущался надёжным, непоколебимым, вселяющим уверенность.
 
-<img src="/guild_wars_1/01-lore/images/Concept_Art-Ascalon-Great_Wall.jpg" width="700" alt="Concept Art: Ascalon Great Wall" />
-
 Lifting her hammer onto her shoulder, the warrior climbed the stairs leading to the crenelated defenses of the Wall.
 > Водрузив свой молот на плечо, воительница поднялась по ступеням, ведущим к зубчатым укреплениям Стены.
 
@@ -38,7 +38,7 @@ Now she would get her first look at the devastation on the other side, the ruins
 Reaching the top, the warrior walked to the edge and peered over.
 > Поднявшись на самый верх, Девона подошла к дальнему краю Стены — туда, где начиналось неизвестное — и застыла, вглядываясь в открывшийся перед ней мир.
 
-.
+<img src="/guild_wars_1/01-lore/images/Concept_Art-Scorched.jpg" width="700" alt="Concept Art: Scorched" />
 
 Huge rock slabs littered the ground, looking like giant bits of shattered crockery, lying broken and discarded across the jagged landscape.
 > Огромные каменные плиты, словно осколки гигантской разбитой посуды, были рассыпанны по израненной, рваной земле.
@@ -49,8 +49,8 @@ The trees and grasses were black—burnt and dead.
 The ground rose from the base of the Wall, becoming a small hill as it got further into enemy territory, blocking a longer view.
 > От подножия Стены земля неторопливо вздымалась, превращаясь вдали в небольшой холм, отсекающий взор от дальнешего обзора вражеской территории.
 
-At the top of the hill, backlit by the orange, scorched sky, Devona could just make out the outline of the `ruins of Surmia`, one of the first cities to fall during the Invasion.
-> На вершине холма, освещенного багряным небом, Девона смогла разглядеть очертания `руин Сурмии`, одного из первых городов, павших во время Вторжения.
+At the top of the hill, backlit by the orange, scorched sky, Devona could just make out the outline of the ruins of `Surmia`, one of the first cities to fall during the Invasion.
+> На вершине холма, в обрамлении <font color="#c86733">обожжённого оранжевого</font> неба, Девона различила силуэт руин `Сурмии` — одного из первых городов, павших во время Вторжения.
 
 Devona looked out at a world of upheaval, the ruins of a fallen kingdom, now desperately holding onto its last, best hope for survival.
 > Девона смотрела на охваченный смятением мир, на развалины павшего королевства, которое теперь отчаянно цеплялось за свою последнюю, но возможно лучшую надежду на выживание.
