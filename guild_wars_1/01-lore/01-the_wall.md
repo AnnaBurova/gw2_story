@@ -16,7 +16,7 @@ It was like something out of a storybook—impossible, unreal.
 `The Great Northern Wall` rose up out of the pock-marked ground, nearly blotting out the sun.
 > `Великая Северная Стена` вырастала из рябой, будто язвами покрытой земли, почти заслоняя собой солнце.
 
-<img src="/guild_wars_1/01-lore/images/NPC-Devona.png" width="50%" align="right"/>
+<img src="/guild_wars_1/01-lore/images/NPC-Devona.png" width="250" align="right" alt="NPC: Devona" />
 
 `Devona` placed her palm on the withered stone.
 > `Девона` прикоснулась ладонью к иссохшему камню Стены.
@@ -24,7 +24,7 @@ It was like something out of a storybook—impossible, unreal.
 It felt solid, unmovable, reassuring.
 > Он ощущался надёжным, непоколебимым, убирал страхи и сомнения.
 
-!["Ascalon Great Wall" Concept Art](/guild_wars_1/01-lore/images/Ascalon-Great_Wall-Concept_Art.jpg)
+<img src="/guild_wars_1/01-lore/images/Concept_Art-Ascalon-Great_Wall.jpg" width="700" alt="Concept Art: Ascalon Great Wall" />
 
 Lifting her hammer onto her shoulder, the warrior climbed the stairs leading to the crenelated defenses of the Wall.
 > Водрузив свой молот на плечо, воительница направилась к лестнице, ведущей к зубчатым венцам Стены.
