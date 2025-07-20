@@ -85,21 +85,17 @@ She glanced out at the ruined ground. — «I just wish I could see more…»
 > Она снова устремила взгляд на опустошённые земли. — «Если бы я только могла увидеть больше…»
 
 Captain Calhaan rocked back and forth on his heels.
-Капитан Калхаан качнулся взад и вперед на пятках.
+> Капитан Калхаан медленно покачивался взад-вперёд на пятках, словно прислушиваясь к своим мыслям.
 
 Grasping his hands behind his back and sticking his chest out, he became suddenly very formal.
-Сложив руки за спиной и выпрямив осанку, он вдруг стал очень формальным.
+> Сложив руки за спиной и расправив плечи, он внезапно стал предельно официальным.
 
-"Well, Recruit," he said, looking her straight in the eyes. "You're going to get your chance.”
-“Что ж, Новобранец”, — сказал он, глядя Воительнице прямо в глаза. «У тебя будет шанс».
+«Well, recruit,» — he said, looking her straight in the eyes. — «You're going to get your chance.»
+> «Что ж, новобранец,» — сказал он, глядя Воительнице прямо в глаза. — «Свой шанс ты обязательно получишь.»
 
-"Sir?"
-“Сэр?”
+«Sir?»
+> «Сэр?»
 
-"Gather a team," replied Calhaan. "You'll be going out within the hour."
-“Собираем команду” ответил Калхаан “Ты выдвигаешься через час.”
-
-
-
-
+«Gather a team,» — replied Calhaan — «You'll be going out within the hour.»
+> «Собирай команду,» — ответил Калхаан — «Вы выдвигаетесь через час.»
 
