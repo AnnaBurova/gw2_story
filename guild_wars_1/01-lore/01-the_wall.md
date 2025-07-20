@@ -38,14 +38,15 @@ Now she would get her first look at the devastation on the other side, the ruins
 Reaching the top, the warrior walked to the edge and peered over.
 > Поднявшись на самый верх, Девона подошла к дальнему краю Стены — туда, где начиналось неизвестное — и застыла, вглядываясь в открывшийся перед ней мир.
 
+&nbsp;
 Huge rock slabs littered the ground, looking like giant bits of shattered crockery, lying broken and discarded across the jagged landscape.
 > Огромные каменные плиты, словно осколки гигантской разбитой посуды, были рассыпанны по израненной, рваной земле.
 
 The trees and grasses were black—burnt and dead.
-> Деревья и травы были черны — они были сожжены дотла и безжизненны.
+> Почерневшие деревья и трава — выжженные и мёртвые.
 
 The ground rose from the base of the Wall, becoming a small hill as it got further into enemy territory, blocking a longer view.
-> Уровень земли медленно поднимался, начиная от основания Стены, превращаясь вдали в небольшой холм, закрывающий дальнеший обзор чужой территории.
+> От подножия Стены земля неторопливо вздымалась, превращаясь вдали в небольшой холм, отсекающий взор от дальнешего обзора вражеской территории.
 
 At the top of the hill, backlit by the orange, scorched sky, Devona could just make out the outline of the `ruins of Surmia`, one of the first cities to fall during the Invasion.
 > На вершине холма, освещенного багряным небом, Девона смогла разглядеть очертания `руин Сурмии`, одного из первых городов, павших во время Вторжения.
