@@ -39,6 +39,7 @@ Reaching the top, the warrior walked to the edge and peered over.
 > Поднявшись на самый верх, Девона подошла к дальнему краю Стены — туда, где начиналось неизвестное — и застыла, вглядываясь в открывшийся перед ней мир.
 
 &nbsp;
+&nbsp;
 Huge rock slabs littered the ground, looking like giant bits of shattered crockery, lying broken and discarded across the jagged landscape.
 > Огромные каменные плиты, словно осколки гигантской разбитой посуды, были рассыпанны по израненной, рваной земле.
 
