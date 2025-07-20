@@ -53,7 +53,7 @@ At the top of the hill, backlit by the orange, scorched sky, Devona could just m
 > На вершине холма, в обрамлении обожжённого оранжевого неба, Девона различила силуэт руин `Сурмии` — одного из первых городов, павших во время `Вторжения`.
 
 Devona looked out at a world of upheaval, the ruins of a fallen kingdom, now desperately holding onto its last, best hope for survival.
-> Девона смотрела на охваченный смятением мир, на развалины павшего королевства, которое теперь отчаянно цеплялось за свою последнюю, но возможно лучшую надежду на выживание.
+> Девона смотрела на потрясённый до основания мир, на развалины павшего королевства, которое теперь отчаянно цеплялось за свою последнюю и, быть может, лучшую надежду на спасение.
 
 The sound of a man clearing his throat brought her attention back to the Wall.
 Покашливание за спиной, вернуло её из мыслей обратно на Стену.
