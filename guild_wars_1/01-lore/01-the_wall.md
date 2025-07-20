@@ -58,7 +58,7 @@ Devona looked out at a world of upheaval, the ruins of a fallen kingdom, now des
 <img src="/guild_wars_1/01-lore/images/NPC-Captain_Calhaan-small.png" width="250" align="right" alt="NPC: Captain Calhaan" />
 
 The sound of a man clearing his throat brought her attention back to the Wall.
-Покашливание за спиной, вернуло её из мыслей обратно на Стену.
+> Сдержанное покашливание где-то рядом вывело её из задумчивости обратно к суровой реальности Великой Стены.
 
 "Captain Calhaan." Devona straightened up and turned to face the officer.
 “Капитан Калхаан” Девона выпрямилась и повернулась к подошедшему офицеру.
