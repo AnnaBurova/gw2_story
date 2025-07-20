@@ -16,9 +16,7 @@ It was like something out of a storybook—impossible, unreal.
 `The Great Northern Wall` rose up out of the pock-marked ground, nearly blotting out the sun.
 > `Великая Северная Стена` вырастала из рябой, будто язвами покрытой земли, почти заслоняя собой солнце.
 
-<p style="float: right;">
-<img src="/guild_wars_1/01-lore/images/NPC-Devona.png">
-</p>
+![NPC "Devona"](/guild_wars_1/01-lore/images/NPC-Devona.jpg style="float: right; width: 50%;")
 
 `Devona` placed her palm on the withered stone.
 > `Девона` прикоснулась ладонью к иссохшему камню Стены.
