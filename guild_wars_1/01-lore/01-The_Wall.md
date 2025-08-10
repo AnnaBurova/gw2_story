@@ -4,7 +4,7 @@
 
 ### The Wall
 
-> Та самая Стена
+> Стена
 
 <https://wiki.guildwars.com/wiki/The_Wall>
 
