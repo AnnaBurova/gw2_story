@@ -13,50 +13,30 @@
 <img src="/guild_wars_1/01-lore/images/Concept_Art-Devourer-small.jpg" height="700" alt="Concept Art: Devourer" />
 
 Devona brought her hammer crashing down on the head of a `devourer`.
-> Девона обрушила молот прямо на голову `пожирателя`.
+> Девона обрушила молот прямо на голову `пожирателя` - массивного, двухвостого скорпионоподобного чудовища.
 
 <img src="/guild_wars_1/01-lore/images/Enemy-Devourer-small.png" width="250" align="right" alt="Enemy: Devourer" />
 
 The creature's chitinous hide cracked under the impact, and one of its front legs buckled.
-> Хитиновый панцирь чудовища треснул от удара, одна из передних лапок подломилась.
+> Хитиновый панцирь существа треснул от удара, одна из передних конечностей подломилась.
 
 It was a solid hit, the sort that would bring even a seasoned soldier to his knees.
-> Удар молотом был сокрушительным, способный сбить с ног даже опытного солдата.
+> Удар молотом был сокрушительным, способный сбить с ног даже закалённого в боях солдата.
 
 But the monster Devona fought was no human.
-> Но монстр, с которым сражалась Девона, вовсе не был человеком.
+> Но монстр, с которым сражалась Девона, не был человеком.
 
 From what she could tell, these beasts didn't even feel pain.
-> Судя по всему, такие существа вообще не чувствовали боли.
+> Судя по всему, эти твари вообще не чувствовали боли.
 
 Barely staggered, the creature fought back.
-> Едва покачнувшись от удара, чудище тут же контратаковало.
+> Лишь слегка пошатнувшись от удара, оно пошло в ответную атаку.
 
-Its talons whistled as they cut the air, and Devona tried to dodge out of the way.
-> Его саблевидные когти просвистели, рассекая воздух, и Девоне пришлось увернуться.
-
-Twisting sideways, the hammer-wielding warrior moved quickly despite her heavy armor.
->
+Its talons whistled as they cut the air, and Devona tried to dodge out of the way. Twisting sideways, the hammer-wielding warrior moved quickly despite her heavy armor.
+> Его саблевидные клешни просвистели, рассекая воздух, словно клинки. Девона попыталась увернуться, резко уходя в сторону, и, несмотря на тяжёлые доспехи и огромный молот, двигалась стремительно.
 
 She was fast, but not fast enough.
->
-
-
-Повернув корпус вбок, воительница быстро двигалась несмотря на тяжелую броню.
-
-Она была быстрой, но недостаточно быстрой.
-
-Понял вас. Давайте попробуем иначе, сохранив эмоциональность и динамичность сцены:
-
-Она двигалась стремительно, однако зверь оказался проворней.
-
-Или чуть подробнее:
-
-Девона действовала молниеносно, но чудовище оказалось ещё быстрее.
-
-Так лучше отражает темп боя и драматизм ситуации. Если нужны ещё варианты или изменения, сообщите.
-
-
+> Она была быстрой, но чудовище оказалось проворней.
 
 The devourer's attack caught her shoulder, at the seam in her armor.
 >
