@@ -45,7 +45,7 @@ Reaching the top, the warrior walked to the edge and peered over.
 <img src="/guild_wars_1/01-lore/images/Concept_Art-Scorched-small.jpg" width="700" alt="Concept Art: Scorched" />
 
 Huge rock slabs littered the ground, looking like giant bits of shattered crockery, lying broken and discarded across the jagged landscape.
-> Огромные каменные плиты, словно осколки гигантской разбитой посуды, были рассыпанны по израненной, рваной земле.
+> Огромные каменные плиты, словно осколки гигантской разбитой посуды, были рассыпаны по израненной, рваной земле.
 
 The trees and grasses were black—burnt and dead.
 > Почерневшие деревья и трава — выжженные и мёртвые.
