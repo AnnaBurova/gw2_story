@@ -1,6 +1,6 @@
 # История Guild Wars 1
 
-## Предистории Guild Wars 1
+## Предыстории Guild Wars 1
 
 ### The Wall
 
